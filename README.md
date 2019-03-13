@@ -1,2 +1,1 @@
-# johannaheperez.github.io
-Personal portfolio
+# Portfolio
